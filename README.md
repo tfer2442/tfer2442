@@ -32,7 +32,7 @@
 | **[아차차](https://github.com/tfer2442/achacha)**  | 기프티콘 관리 및 공유 어플리케이션 | 2025.04.14 ~ 2025.05.22 (6주) | 6명 | BE |
 | **업텐션** | 업무 집중 어플리케이션 | 2025.02.24 ~ 2025.04.11 (7주) | 5명 | BE, INFRA |
 | **[이걸루](https://github.com/tfer2442/igeolu)** | AI 부동산 라이브 중개 플랫폼 | 2025.01.06 ~ 2025.02.21 (7주) | 5명 | BE |
-| **[해달 v2](https://github.com/KNU-HAEDAL-Website/Backend-v2)** | on-premise 기반의 동아리 웹 사이트 | 2024.12.01 ~ 2025.01.05 (1개월)| 2명 | BE, INFRA |
+| **[해달 v2](https://github.com/KNU-HAEDAL-Website/Backend-v2)** | on-premise 기반의 동아리 웹 사이트 | 2024.12.01 ~ 2025.01.05 (1개월)| 4명 | BE, INFRA |
 | **[해달 v1](https://github.com/KNU-HAEDAL-Website/Backend-v1)** | cloud 기반의 동아리 웹 사이트 | 2024.02.12 ~ 2024.08.31 (6개월) | 2명 | BE, INFRA |
 
 📫 **Contact:** [tfer2442@naver.com](mailto:tfer2442@naver.com)
